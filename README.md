@@ -1,9 +1,8 @@
 # SPILIA
 > Interactive Fiction game  | Horror | Mystery | Thriller
 
-[![Language][JavaScript]]
-[![Build Status][finished]]
-[![Release date][May 2022]]
+https://img.shields.io/github/license/dffrigo/Spilia
+https://imgur.com/a/9oagsUb
 
 a story based on real events, ancient civilizations and mythologies
 you will be challenged to solve puzzles finding the verb “keyword” of each situation
