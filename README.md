@@ -1,7 +1,7 @@
 # SPILIA
 > Interactive Fiction game  | Horror | Mystery | Thriller
 
-<img width="128" alt="JavaScript2" src="https://user-images.githubusercontent.com/102762000/168402201-973b5b67-d01d-4341-9e26-c61b97204e7f.png">
+<img width="297" alt="JavaScript2" src="https://user-images.githubusercontent.com/102762000/168402369-133e598e-6dff-4dbd-bf18-35007efe9603.png">
 
 a story based on real events, ancient civilizations and mythologies
 you will be challenged to solve puzzles finding the verb “keyword” of each situation
