@@ -2,7 +2,7 @@
 > Interactive Fiction game  | Horror | Mystery | Thriller
 
 https://img.shields.io/github/license/dffrigo/Spilia
-https://imgur.com/a/9oagsUb
+<img width="392" alt="JavaScript" src="https://user-images.githubusercontent.com/102762000/168402057-21d06190-182d-411c-97b7-d16f981daabb.png">
 
 a story based on real events, ancient civilizations and mythologies
 you will be challenged to solve puzzles finding the verb “keyword” of each situation
