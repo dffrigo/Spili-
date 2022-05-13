@@ -9,7 +9,7 @@ a story based on real events, ancient civilizations and mythologies
 you will be challenged to solve puzzles finding the verb “keyword” of each situation
 all verbs are from Portuguese language infinitive mode
 
-![Spilialogo](https://imgur.com/a/xjq57Hg)
+![Spilialogo](https://user-images.githubusercontent.com/102762000/168400302-2e2dd256-42f5-411f-af56-f55a19efe878.png)
 
 ## Installation
 
