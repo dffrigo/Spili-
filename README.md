@@ -1,4 +1,4 @@
-# SPILIA
+# SPILIA (Cave)
 > Interactive Fiction game  | Horror | Mystery | Thriller
 
 <img width="297" alt="JavaScript2" src="https://user-images.githubusercontent.com/102762000/168402369-133e598e-6dff-4dbd-bf18-35007efe9603.png">
