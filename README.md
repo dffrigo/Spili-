@@ -12,7 +12,10 @@ all verbs are from Portuguese language infinitive mode
 ## Installation
 
 Windows based
+- JavaScript (Vanilla)
+- Node.js v16.14.0.
 
+Requirements:
 ```sh
 npm install prompt-sync
 ```
